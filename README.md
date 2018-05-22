@@ -1,4 +1,4 @@
-# React BolierPlate COPART
+# React BolierPlate
 
 
 ### Prerequisites
@@ -16,6 +16,10 @@ First clone this repository and run yarn on the root folder
 ```
 git clone <repository>
 yarn install
+
+OR
+
+npm install
 
 ```
 
@@ -36,7 +40,4 @@ yarn run test
 
 ## Authors
 
-* **CodeTestCITC**
-
-
-
+* **Vishal Lakkapathri**
